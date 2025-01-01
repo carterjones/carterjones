@@ -1,8 +1,9 @@
 # Hi. I'm Carter.
 
-I'm a security infrastructure engineer with over 10 years of experience in the security industry as
-a developer (infrastructure engineering/application security), consultant, and researcher. I
-communicate fluently with both computers and humans.
+I'm a security generalist over 15 years of experience in the security industry as a product
+security researcher and engineer, DevOps practitioner, developer (infrastructure
+engineering/application security), and consultant. I communicate fluently with both computers and
+humans.
 
 - ✉️ Contact me on [LinkedIn](https://www.linkedin.com/in/carterjones/)
 - 💼 Download my [resume](https://resume.carterjones.info/)
